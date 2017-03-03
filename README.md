@@ -6,5 +6,6 @@ A script for checking and adding license header according to [OPNFV contribution
 
 ```
 $ cd <project-root>
-$ curl https://github.com/openzero-team/License/raw/develop/add_license.sh |bash
+$ curl https://raw.githubusercontent.com/openzero-team/License/develop/add_license.sh |bash
 ```
+
